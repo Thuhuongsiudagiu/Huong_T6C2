@@ -7,7 +7,7 @@
 <h2 align="left">##Mô tả dự án🎈🎈</h2>
 <h4 align="left">Dự án được chia thành 3 sprint, mỗi sprint đều có những tính năng hấp dẫn và hữu ích để phục vụ cho việc quản lý nhà sách: </h4>
 <h3 align="left">###Sprint 1: Những tính năng cơ bản🎈🎈🎈</h3>
-<h4 align="left"><i>1. Xem trang chủ:</i> Giao diện thân thiện với người dùng. <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
+<h4 align="left"><b>1. Xem trang chủ:</b> Giao diện thân thiện với người dùng. <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
 <h3 align="left">###Sprint 2: Quản lý thông tin🎈🎈🎈</h3>
 <h4 align="left">1. Quản lý thông tin tài khoản (Thêm, xóa, sửa thông tin) <Br>2. Xem số lượng sản phẩm trong kho <Br>3. Xem danh sách đơn hàng <Br>4. Quản lý sản phẩm (Thêm, sửa, xóa sản phẩm) <Br>5. Quản lý kho (Thêm, sửa, xóa sản phẩm trong kho) </h4>
 <h3 align="left">###Sprint 3: Hoàn thiện quy trình đặt hàng🎈🎈🎈</h3>
