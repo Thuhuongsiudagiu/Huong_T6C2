@@ -7,11 +7,11 @@
 <h2 align="left">##Mô tả dự án🎈🎈</h2>
 <h4 align="left">Dự án được chia thành 3 sprint, mỗi sprint đều có những tính năng hấp dẫn và hữu ích để phục vụ cho việc quản lý nhà sách: </h4>
 <h3 align="left">###Sprint 1: Những tính năng cơ bản🎈🎈🎈</h3>
-<h4 align="left"><i>1. Xem trang chủ:</i> Giao diện thân thiện với người dùng. <Br>2. Xem danh sách sản phẩm <Br>3. Xem chi tiết sản phẩm <Br>4. Tìm kiếm sản phẩm theo (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication) <Br>6. Đăng ký tài khoản người dùng <Br>7. Phân danh mục sản phẩm</h4>
+<h4 align="left">1. Xem trang chủ: giao diện thân thiện với người dùng. <Br>2. Xem danh sách sản phẩm: danh sách sản phẩm đa dạng và phong phú. <Br>3. Xem chi tiết sản phẩm: thông tin chi tiết về từng sản phẩm. <Br>4. Tìm kiếm sản phẩm theo: tìm kiếm nhanh chóng theo tên hoặc thể loại. (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication): hệ thống phân quyền người dùng. <Br>6. Đăng ký tài khoản người dùng: đơn giản và nhanh chóng. <Br>7. Phân danh mục sản phẩm: sắp xếp sản phẩm theo danh mục rõ ràng.</h4>
 <h3 align="left">###Sprint 2: Quản lý thông tin🎈🎈🎈</h3>
-<h4 align="left">1. Quản lý thông tin tài khoản (Thêm, xóa, sửa thông tin) <Br>2. Xem số lượng sản phẩm trong kho <Br>3. Xem danh sách đơn hàng <Br>4. Quản lý sản phẩm (Thêm, sửa, xóa sản phẩm) <Br>5. Quản lý kho (Thêm, sửa, xóa sản phẩm trong kho) </h4>
+<h4 align="left">1. Quản lý thông tin tài khoản: thêm, xóa, sửa thông tin tài khoản người dùng. <Br>2. Xem số lượng sản phẩm trong kho: kiểm soát tình trạng kho hàng. <Br>3. Xem danh sách đơn hàng: theo dõi các đơn hàng đã đặt. <Br>4. Quản lý sản phẩm: thêm, sửa, xóa sản phẩm. <Br>5. Quản lý kho (Thêm, sửa, xóa sản phẩm trong kho): Quản lý sản phẩm trong kho hiệu quả. </h4>
 <h3 align="left">###Sprint 3: Hoàn thiện quy trình đặt hàng🎈🎈🎈</h3>
-<h4 align="left">1. Đặt hàng <Br>2. Thanh toán hóa đơn đặt hàng <Br>3. Theo dõi trạng thái đơn hàng <Br>4. Tạo đơn hàng <Br>5. In hóa đơn <Br>6. Xử lý thanh toán </h4>
+<h4 align="left">1. Đặt hàng: thực hiện đặt hàng dễ dàng. <Br>2. Thanh toán hóa đơn đặt hàng: thanh toán an toàn và nhanh chóng. <Br>3. Theo dõi trạng thái đơn hàng: cập nhật tình trạng đơn hàng liên tục. <Br>4. Tạo đơn hàng: hệ thống tạo đơn hàng tự động. <Br>5. In hóa đơn: in hóa đơn đơn giản. <Br>6. Xử lý thanh toán: đảm bảo quy trình thanh toán hiệu quả. </h4>
 
 - 📫 How to reach me **mahuong2k4@gmail.com**
 
