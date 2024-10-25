@@ -4,7 +4,7 @@
 <h4 align="left">Mình là sinh viên học ngành Công nghệ thông tin tại https://huflit.edu.vn/ <Br>. Hiện tại, mình đang tham gia vào một dự án nhóm cùng 5 thành viên khác, nhằm xây dựng một trang website quản lý nhà sách. </h4>
 <h2 align="left">##Thành viên nhóm💖</h2>
 <h4 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h4>
-<h2 align="left">##Mô tả dự án💖</h2>
+<h2 align="left">##Mô tả dự án🌱🍉</h2>
 <h4 align="left">Dự án được chia thành 3 sprint, mỗi sprint đều có những tính năng hấp dẫn và hữu ích để phục vụ cho việc quản lý nhà sách: </h4>
 <h3 align="left">###Sprint 1: Những tính năng cơ bản🌷</h3>
 <h4 align="left">1. Xem trang chủ: giao diện thân thiện với người dùng. <Br>2. Xem danh sách sản phẩm: danh sách sản phẩm đa dạng và phong phú. <Br>3. Xem chi tiết sản phẩm: thông tin chi tiết về từng sản phẩm. <Br>4. Tìm kiếm sản phẩm theo: tìm kiếm nhanh chóng theo tên hoặc thể loại. (Tên, Thể loại) <Br>5. Đăng nhập với vai trò (Role-based authentication): hệ thống phân quyền người dùng. <Br>6. Đăng ký tài khoản người dùng: đơn giản và nhanh chóng. <Br>7. Phân danh mục sản phẩm: sắp xếp sản phẩm theo danh mục rõ ràng.</h4>
