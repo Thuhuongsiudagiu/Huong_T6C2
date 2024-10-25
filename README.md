@@ -1,6 +1,6 @@
 <h1 align="left">Hii🥰, Tui là Thu Hương💕</h1>
 <h1 align="left">🗝️Dự Án Quản Lý Nhà Sách - Nhóm 1🗝️</h1>
-<h2 align="left">##Giới thiệu🎈🎈</h2>
+<h2 align="left">##Giới thiệu✨✨</h2>
 <h4 align="left">Mình là sinh viên học ngành Công nghệ thông tin tại https://huflit.edu.vn/ <Br>. Hiện tại, mình đang tham gia vào một dự án nhóm cùng 5 thành viên khác, nhằm xây dựng một trang website quản lý nhà sách. </h4>
 <h2 align="left">##Thành viên nhóm🎈🎈</h2>
 <h4 align="left">Lâm Mỹ Huyền-22DH110409 (Leader, Scrum Master)<Br>Nguyễn Hà My-22DH112207 (Product Owner)<Br>Trần Thị Kim Chi-22DH1100409 (Dev)<Br>Mã Thị Thu Hương-22DH111456 (Dev) <Br>Trần Tuấn Kiệt-22DH114604 (Dev) </h4>
