@@ -1,4 +1,4 @@
-<h1 align="left">Hii, Tui là Thu Hương✨</h1>
+<h1 align="left">Hii, Tui là Thu Hương🥑</h1>
 <h1 align="left">Dự Án Quản Lý Nhà Sách - Nhóm 1</h1>
 <h2 align="left">##Giới thiệu✨</h2>
 <h4 align="left">Mình là sinh viên học ngành Công nghệ thông tin tại https://huflit.edu.vn/ <Br>. Hiện tại, mình đang tham gia vào một dự án nhóm cùng 5 thành viên khác, nhằm xây dựng một trang website quản lý nhà sách. </h4>
